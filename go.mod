@@ -3,6 +3,7 @@ module github.com/apache/servicecomb-service-center
 replace (
 	github.com/apache/servicecomb-service-center/api => ./api
 	github.com/apache/servicecomb-service-center/eventbase => ./eventbase
+	github.com/apache/servicecomb-service-center/istio => ./istio
 	github.com/apache/thrift => github.com/apache/thrift v0.0.0-20180125231006-3d556248a8b9
 )
 
