@@ -175,6 +175,6 @@ require (
 	sigs.k8s.io/yaml v1.2.0 // indirect
 )
 
-require github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
+require github.com/modern-go/concurrent v1.0.3 // indirect
 
 go 1.17
